@@ -1,4 +1,4 @@
-package com.rishabh.bloodbank.Activities;
+package com.panch.bloodbank.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -23,11 +23,11 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.rishabh.bloodbank.Adapters.RequestAdapter;
-import com.rishabh.bloodbank.DataModels.RequestDataModel;
-import com.rishabh.bloodbank.R;
-import com.rishabh.bloodbank.Utils.Endpoints;
-import com.rishabh.bloodbank.Utils.VolleySingleton;
+import com.panch.bloodbank.Adapters.RequestAdapter;
+import com.panch.bloodbank.DataModels.RequestDataModel;
+import com.panch.bloodbank.R;
+import com.panch.bloodbank.Utils.Endpoints;
+import com.panch.bloodbank.Utils.VolleySingleton;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.HashMap;
