@@ -1,4 +1,4 @@
-package com.rishabh.bloodbank.Activities;
+package com.panch.bloodbank.Activities;
 
 import android.content.Intent;
 import android.util.Log;
@@ -17,9 +17,9 @@ import com.android.volley.Response.ErrorListener;
 import com.android.volley.Response.Listener;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
-import com.rishabh.bloodbank.R;
-import com.rishabh.bloodbank.Utils.Endpoints;
-import com.rishabh.bloodbank.Utils.VolleySingleton;
+import com.panch.bloodbank.R;
+import com.panch.bloodbank.Utils.Endpoints;
+import com.panch.bloodbank.Utils.VolleySingleton;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
